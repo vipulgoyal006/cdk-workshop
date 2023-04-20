@@ -21,4 +21,3 @@ Enjoy!
 =======
 # cdk-workshop
 CDK tutorial implementation of FreeCodeCamp
->>>>>>> 29235c7c6d9c1e6970631337eb5678a197353c3a
