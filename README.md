@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your CDK Java project!
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`CdkWorkshopStack`)
@@ -17,3 +18,7 @@ It is a [Maven](https://maven.apache.org/) based project, so you can open this p
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+=======
+# cdk-workshop
+CDK tutorial implementation of FreeCodeCamp
+>>>>>>> 29235c7c6d9c1e6970631337eb5678a197353c3a
